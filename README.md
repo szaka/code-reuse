@@ -1,4 +1,4 @@
-## Progress Check 3
+## Progress Check 2
 - [ ] Fork and clone this repo
 - [ ] Write a working implementation of passwordProtect in `passwordProtect.js`
 - [ ] Push your work to your fork
